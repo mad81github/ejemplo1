@@ -1,6 +1,6 @@
 Hola Master y Rama1
 Hola2
-Modificación sobre file1 en local
+Modificacion sobre file1 en local
 Hola3
-Modificación sobre fichero 1
-Modifiación temporal en Github
+Modificacion sobre fichero 1
+Modifiacion temporal en Github
